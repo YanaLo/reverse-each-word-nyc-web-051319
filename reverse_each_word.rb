@@ -1,4 +1,4 @@
 def reverse_each_word(string)
-  string.split("")
-  string.each {|i| string.to_a.unshift(i)}
+  array.n=string.split("")
+  array_n.each do {|i| string.to_a.unshift(i)}
 end
