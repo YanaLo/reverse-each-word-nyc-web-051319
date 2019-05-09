@@ -3,4 +3,3 @@ def reverse_each_word(string)
   
   array_n.each do {|i| aarray_n.reverse!}
 end
-end
